@@ -1,0 +1,6 @@
+{
+  "name": "Muslim Companion",
+  "description": "A beautiful and comprehensive Muslim app providing accurate prayer times, Qibla compass, Quran reading, and a Tasbih counter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
